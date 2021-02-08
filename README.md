@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### generating public and private keys
+
+This section has moved here: [https://developer.marvel.com/]
+Browse this url and click on "Get a Key" tab, it will ask for signup. Login with your credentilas if you have an existing account else create new account.
+
+Go to my developer account and there you can see "public and private keys". Copy that and paste im "MarvelService.js" file where you can see those variables.
+
+Add new refer under "Your authorized referrers" and enter localhost/your system IP and save.
+
+### Install node modules
+
+After cloning the project do npm install.
+
